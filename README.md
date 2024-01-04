@@ -4,6 +4,4 @@
 
 ## 2nd change on the read me file
 
-## 3rd change on the read me file
-
-## git amend 
+## 3nd change on the read me file
